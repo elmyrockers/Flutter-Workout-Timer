@@ -14,9 +14,12 @@
 /build/
 /coverage/
 
+# Platform-specific cache (but keep source folders)
+# We keep android/ and ios/ since the app is mobile-only
 /android/app/debug/
 /android/app/profile/
 /android/app/release/
+/ios/Flutter/.last_build_id
 
 # IDE/editor specific
 .idea/
@@ -43,3 +46,6 @@ migrate_working_dir/
 # Symbolication / obfuscation
 app.*.symbols
 app.*.map.json
+
+# Web build outputs
+/web/build/
