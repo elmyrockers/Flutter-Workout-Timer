@@ -49,3 +49,9 @@ app.*.map.json
 
 # Web build outputs
 /web/build/
+
+
+# Exclude desktop
+/linux/
+/macos/
+/windows/
