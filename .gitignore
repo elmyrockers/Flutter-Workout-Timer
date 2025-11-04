@@ -1,0 +1,45 @@
+# Flutter/Dart generated files
+.dart_tool/
+.build/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+*.log
+*.lock
+.metadata
+
+# Build outputs
+/build/
+/coverage/
+
+/android/app/debug/
+/android/app/profile/
+/android/app/release/
+
+# IDE/editor specific
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# macOS
+.DS_Store
+
+# Miscellaneous
+*.class
+*.pyc
+*.swp
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# Documentation
+**/doc/api/
+
+# Symbolication / obfuscation
+app.*.symbols
+app.*.map.json
