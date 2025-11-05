@@ -13,7 +13,7 @@ This app is created for **demo purposes only** to showcase Flutter development a
 ## Technology Stacks
 > - Flutter 3
 > - Dart 3
-> - MVVM architecture
+> - MVVM architecture: View → ViewModel → Repository → Model
 
 ## Screenshots
 
